@@ -1,0 +1,9 @@
+[submodule "pandoc-bin"]
+	path = pandoc-bin
+	url = https://github.com/ashwinvis/pandoc-bin.git
+[submodule "pandoc-citeproc-bin"]
+	path = pandoc-citeproc-bin
+	url = https://github.com/ashwinvis/pandoc-citeproc-bin.git
+[submodule "pandoc-crossref-bin"]
+	path = pandoc-crossref-bin
+	url = https://github.com/ashwinvis/pandoc-crossref-bin.git
