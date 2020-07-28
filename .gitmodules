@@ -7,3 +7,6 @@
 [submodule "pandoc-crossref-bin"]
 	path = pandoc-crossref-bin
 	url = https://github.com/ashwinvis/pandoc-crossref-bin.git
+[submodule "dict-freedict-eng-swe"]
+	path = dict-freedict-eng-swe
+	url = ssh://aur@aur.archlinux.org/dict-freedict-eng-swe
